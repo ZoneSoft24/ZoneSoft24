@@ -18,7 +18,7 @@ ZoneSoft is more than just a student group; we are a passionate collective of so
 
 <h3 align="left">🔭 Our Vision:</h3>
 <p align="left">
-  To empower young talents to create meaningful, scalable, and socially impactful software through collaboration, innovation, and community.
+  To grow into a well-regarded student-led software team in Vietnam, known for turning creative ideas into practical solutions, and for nurturing future-ready tech talent.
 </p>
 
 <h3 align="left">👨‍💻 Languages and Tools:</h3>
